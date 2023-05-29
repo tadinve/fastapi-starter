@@ -1,0 +1,2 @@
+# Connect to an running docker 
+    docker exec -it postgres bash

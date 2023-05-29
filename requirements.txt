@@ -1,0 +1,10 @@
+fastapi
+pydantic
+pydantic[email]
+uvicorn[standard]
+sqlalchemy 
+psycopg2
+passlib[bcrypt]
+fastapi-jwt-auth[asymmetric]
+alembic
+
